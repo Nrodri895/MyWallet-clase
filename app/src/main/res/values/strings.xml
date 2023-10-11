@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyWallet</string>
+    <string name="text_name_account">Nombre de la cuenta</string>
+    <string name="text_type_account">Tipo de cuenta</string>
+    <string name="text_balance_initial_account">Saldo Inicial</string>
+    <string name="text_save">Guardar</string>
+    <string name="text_required">Campo Requerido</string>
+    <string name="text_accounts">Cuentas</string>
+    <string name="txt_new_account">Nueva cuenta</string>
+    <string name="text_category">Categorias</string>
+    <string name="text_new_category">Nueva Categoría</string>
+    <string name="text_cancel">Cancelar</string>
+    <string name="txt_create">Crear</string>
+    <string name="text_name">Nombre</string>
+    <string name="txt_select_color">Seleccionar color</string>
+    <string name="txt_color">Color</string>
+    <string name="txt_save_category">Se guardo la categoria</string>
+</resources>
